@@ -8,5 +8,6 @@ int main(){
       printf("My name is \"ved dandotia\"\n");
       printf("I am learning C from \"Geeks for geeks\"");
 
-    return 
+    return 0;
+
 }
